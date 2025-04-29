@@ -87,10 +87,10 @@
 
 <ol>
   <li>Clone the repository:</li>
-  <pre><code>git clone https://github.com/your-username/personal-chat-frontend.git</code></pre>
+  <pre><code>git clonehttps://github.com/iqra-jyothi/ChatApplicationFrontend.git</code></pre>
 
   <li>Navigate to the project directory:</li>
-  <pre><code>cd personal-chat-frontend</code></pre>
+  <pre><code>cd chat-app</code></pre>
 
   <li>Install all dependencies:</li>
   <pre><code>npm install</code></pre>
