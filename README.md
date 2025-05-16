@@ -180,5 +180,6 @@ npx tailwindcss init -p</code></pre>
   <li><b>ProfileSetup.js:</b> Allows users to set up their profile (name, avatar/photo) after signing in for the first time.</li>
 </ul>
 <h2>screenshot</h2>
+<p>the screenshot is provided in screenshot folder</p>
 
 
